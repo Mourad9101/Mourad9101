@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/raijinstudio1" target="blank"><img src="https://img.shields.io/twitter/follow/raijinstudio1?logo=twitter&style=for-the-badge" alt="raijinstudio1" /></a> </p>
 
+- 🌍 I'm based in France 🇫🇷**
+
 - 🌱 I’m currently learning **Java Spring and C++**
 
 - 📫 How to reach me **hassis.mourad@gmail.com**
